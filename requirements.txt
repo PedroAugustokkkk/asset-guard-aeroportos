@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+criptography
+paho-mqtt
+qiskit
+pandas
+matplotlib
+seaborn
+dotenv
