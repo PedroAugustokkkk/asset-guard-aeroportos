@@ -61,7 +61,6 @@ plt.grid(True) # grade para facilitar a visualização humana
 plt.savefig('mapa_simulado_aeroporto.png') # aqui é importante, salvamos esse gráfico como arquivo .png
 
 # Mostra o gráfico na tela.
-# plt.show() # Descomentar esta linha se quiser que o gráfico apareça na tela ao rodar o script.
 
 print("--- Gráfico dos Dados Gerado e Salvo como 'mapa_simulado_aeroporto.png' ---")
 print("\n")
